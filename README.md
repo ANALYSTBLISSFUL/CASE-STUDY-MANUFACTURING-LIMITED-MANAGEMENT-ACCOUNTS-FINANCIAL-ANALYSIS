@@ -3,3 +3,5 @@
 <img width="640" height="635" alt="CASESTUDY MANUFACTURING LIMITED DASHBOARD" src="https://github.com/user-attachments/assets/eb81d723-285c-46be-b690-7e8b6de3252e" />
 
 [CASESTUDY MANUFACTURING LIMITED.pdf](https://github.com/user-attachments/files/35038911/CASESTUDY.MANUFACTURING.LIMITED.pdf)
+
+[CASESTUDY MANUFACTURING LIMITED.xlsx](https://github.com/user-attachments/files/35038943/CASESTUDY.MANUFACTURING.LIMITED.xlsx)
